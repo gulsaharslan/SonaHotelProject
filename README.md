@@ -18,10 +18,10 @@ Bu proje, Sona Hotel isimli bir otel rezervasyon sistemi için geliştirilmişti
 ## Ekran Görüntüleri
 
 UI Anasayfa
-![UI Anasayfa](https://hizliresim.com/k5w8lym.jpg)
+![UI Anasayfa](https://r.resimlink.com/bK3uIHEp.jpg)
 
 Otel Listesi
-![Otel Listesi](https://hizliresim.com/tklueip.jpeg)
+![Otel Listesi](https://r.resimlink.com/vs_7EUZ0Kf.jpg)
 
 Otel Detayları
-![Otel Detayları](https://hizliresim.com/mrgdi7x.jpeg)
+![Otel Detayları](https://r.resimlink.com/dcrmBflg03Pw.jpg)
